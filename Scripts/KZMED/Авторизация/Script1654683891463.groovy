@@ -47,9 +47,6 @@ WebUI.setText(findTestObject('Object Repository/KZMED/Page_/input__input-42'), '
 'Нажать кнопку "Войти"'
 WebUI.click(findTestObject('Object Repository/KZMED/Page_/button__1_2'))
 
-'Нажать кнопку "Нет" модального окна "Хотите использовать пин-код"'
-WebUI.click(findTestObject('Object Repository/KZMED/Page_/button__1_2_3'))
-
 'Закрыть браузер'
 WebUI.closeBrowser()
 
