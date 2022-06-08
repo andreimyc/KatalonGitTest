@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_KZ_v-icon notranslate mdi mdi-chevron-dow_2844bd</name>
+   <tag></tag>
+   <elementGuidId>01baa279-1329-4dbd-87e0-3c5b783e738e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div/div[3]/div/div[3]/div/div/div/div/div/div[2]/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.v-icon.notranslate.mdi.mdi-chevron-down.theme--dark</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>303020da-f94d-45e4-bf3d-705000eac1b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>84a4e70f-e08c-489a-867f-a11c5538af98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-icon notranslate mdi mdi-chevron-down theme--dark</value>
+      <webElementGuid>4b0e6b68-084b-47bf-91b3-f454163bfeef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container container--fluid fill-height&quot;]/div[@class=&quot;layout justify-center fill-height wrap&quot;]/div[@class=&quot;my-auto px-4 mb-12 py-0 mb-0 v-card v-card--flat v-sheet theme--light transparent&quot;]/div[@class=&quot;v-card__actions pt-12 px-5&quot;]/div[@class=&quot;row no-gutters&quot;]/div[@class=&quot;col col-12&quot;]/div[@class=&quot;px-12 pt-8 mb-16&quot;]/div[@class=&quot;v-input my-lang-select v-input--hide-details v-input--is-label-active v-input--is-dirty v-input--dense theme--dark v-text-field v-text-field--is-booted v-text-field--rounded v-select v-select--is-menu-active&quot;]/div[@class=&quot;v-input__control&quot;]/div[@class=&quot;v-input__slot&quot;]/div[@class=&quot;v-select__slot&quot;]/div[@class=&quot;v-input__append-inner&quot;]/div[@class=&quot;v-input__icon v-input__icon--append&quot;]/i[@class=&quot;v-icon notranslate mdi mdi-chevron-down theme--dark&quot;]</value>
+      <webElementGuid>a748b4c0-2158-45f8-acdb-4135975ae289</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div/div[3]/div/div[3]/div/div/div/div/div/div[2]/div/i</value>
+      <webElementGuid>72c1894e-4e7b-4b2d-85cd-b3e7d91a9ef5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>2eb02c52-c5b1-4d92-a092-4dd66bbd1303</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
